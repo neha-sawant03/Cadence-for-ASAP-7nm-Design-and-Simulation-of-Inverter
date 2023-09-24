@@ -1,0 +1,17 @@
+* "simulator" "HSPICE" 
+* "version" "R-2020.12-3 linux64"
+* "format" "HSP"
+* "rundate" "14:29:49 09/13/2023 "
+* "netlist" "run_inverter.sp "
+* "runtitle" "** run inverter file"
+* time =  0.000e+00       
+* temperature =  1.100e+02       
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc= 1.000e-12       
+.nodeset
++ a = 0.000e+00       
++ vdd = 7.000e-01       
++ vss = 0.000e+00       
++ y = 7.000e-01       
+***   END: Saved Operating Point ***                     
